@@ -16,4 +16,6 @@ new data point and meets a minimal threshold criterion. The bluetooth
 module will transmit the mp3/mp4 file associated with the match to the 
 speaker box, and the amplified signal will then be broadcast through the 
 speaker.
-![flow diagram](https://github.com/SamarthWalse10/Speaking-Hands/assets/125689593/016972df-e8cd-45ec-a981-bb2a34041050)
+<p align="center">
+  <img width="480" height="433.5" src="https://github.com/SamarthWalse10/Speaking-Hands/assets/125689593/016972df-e8cd-45ec-a981-bb2a34041050"/>
+</p>
