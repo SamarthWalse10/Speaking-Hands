@@ -3,8 +3,8 @@ The project's primary coding is carried out using Arduino IDE
 To calibrate and modify the outputs of the flex sensors to suit our needs,
 we have developed our own library (FlexSensor.h). There are primarily two operating
 modes:
-## i. Training Mode
-## ii. Testing Mode
+<p><b> i. Training Mode</b></p>
+<p><b> ii. Testing Mode</b></p>
 Some labelled sample datapoints will be stored in the SD card module 
 during the training mode. The data points will be a 16x200 1D flattened 
 array. The user's hand motions in testing mode will produce a new datapoint, a 
